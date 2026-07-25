@@ -10,7 +10,7 @@ This project combines advanced statistical modeling with Python and Excel to sho
 polars   
 numpy   
 statsmodels  
-Xlsxwriter   
+xlsxwriter   
 
 ## Model
 
