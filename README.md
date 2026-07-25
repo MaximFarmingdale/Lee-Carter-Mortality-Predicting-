@@ -7,10 +7,10 @@ This project combines advanced statistical modeling with Python and Excel to sho
 
 ## Libraries Used
 
-polars
-numpy 
-statsmodels
-Xlsxwriter
+polars  
+numpy    
+statsmodels  
+Xlsxwriter  
 
 ## Model
 
